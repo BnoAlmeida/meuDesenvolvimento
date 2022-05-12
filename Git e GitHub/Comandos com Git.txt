@@ -1,0 +1,7 @@
+Alguns comandos do Git
+
+ls -a  --> Mostra arquivos ocultos
+git status --> Mostra os Status da pasta
+git push origin main/master(user name) --> Jogar arquivos/pastas para o servidor Remoto
+git pull origin main/master(user name) --> Puxar arquivos/pastas para o servidor Local
+git clone caminhoDoRepositório(HTTP, SSH,...) --> Clonar repositório Remoto para Local
