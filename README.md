@@ -9,6 +9,9 @@ Desenvolvimento pessoal de Bootcamps e Cursos
 ## Módulo 2 - HTML E CSS3
 
 - Introdução a criação de websites com HTML5 e CSS3
-- Desafio de Projeto - Recriando a página inicial do Instagram
+- Desafio de Projeto - Recriando a página inicial do Instagram (Projeto criado)
 
 ## Módulo 3 - JavaScript
+
+- Introdução ao JavaScript
+- Desafio do Projeto - Criar um sistema de estacionamento com TypeScript.
